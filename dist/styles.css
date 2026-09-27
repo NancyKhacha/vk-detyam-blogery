@@ -90,7 +90,7 @@ h1 em{font-style:normal}
   .expert{padding:38px}
 }
 @media(max-width:620px){
-  body{font-size:19px}
+  body{font-size:18px}
   .site-header,.opening,.story{width:calc(100% - 32px)}
   .site-header{height:100px;padding-top:25px}.logo-lockup{width:218px}
   .logo-link{top:-7px;height:44px}
@@ -101,8 +101,8 @@ h1 em{font-style:normal}
   .neon{display:none}
   .hero-image{margin-bottom:42px}
   .intro-lead{font-size:24px;line-height:1.25;margin-bottom:26px}
-  .intro-cols{grid-template-columns:1fr;gap:0}.intro-cols p{font-size:19px;line-height:1.55;margin-bottom:22px}
-  .kids-link,.video-link{font-size:17px;min-height:50px;padding:13px 20px;text-align:center}
+  .intro-cols{grid-template-columns:1fr;gap:0}.intro-cols p{font-size:18px;line-height:1.55;margin-bottom:22px}
+  .kids-link,.video-link{font-size:18px;min-height:50px;padding:13px 20px;text-align:center}
   .kids-link{margin-top:28px}
   .stories{padding-top:68px}.story{margin-bottom:80px}
   .story:nth-child(n+3)::before,.story:nth-child(n+3)::after{width:750px;height:760px;filter:blur(90px)}
@@ -112,17 +112,17 @@ h1 em{font-style:normal}
   .story:nth-child(even) .story-neon-b{right:auto;left:-120px}
   .review{display:flex;flex-direction:column;margin-top:32px;gap:0}
   .review h2{font-size:28px;line-height:1.17;margin-bottom:14px}
-  .byline{font-size:17px;line-height:1.45;margin-bottom:22px}
-  .blogger{order:0;width:100%;padding:22px;border-radius:24px;margin-bottom:26px;font-size:18px}
+  .byline{font-size:18px;line-height:1.45;margin-bottom:22px}
+  .blogger{order:0;width:100%;padding:22px;border-radius:24px;margin-bottom:26px;font-size:16px}
   #story-4 .blogger{margin-bottom:100px}
   #story-4 .blogger .story-neon-b{top:calc(100% + 39px);left:calc(50% - 88px);right:auto;width:175px}
-  .review-copy{order:1;font-size:19px;line-height:1.55}
+  .review-copy{order:1;font-size:18px;line-height:1.55}
   .review-copy p,.expert-copy p{margin-bottom:20px}
   .expert{padding:26px 22px 30px;margin-top:45px;border-radius:26px}
   .expert-person{gap:20px;margin-bottom:30px}
   .expert-photo{width:82px;height:82px;padding:3px;border-width:4px;box-shadow:0 0 0 4px #000,0 0 0 8px var(--blue),0 0 25px 5px rgba(0,119,255,.45)}
-  .expert-person h3{font-size:21px}.expert-person p{font-size:16px;line-height:1.25}
-  .expert-copy{font-size:19px;line-height:1.55}
+  .expert-person h3{font-size:21px}.expert-person p{font-size:18px;line-height:1.25}
+  .expert-copy{font-size:18px;line-height:1.55}
   .video-link{margin-top:32px}
 }
-@media(max-width:380px){h1{font-size:32px}.expert-person{gap:15px}.expert-person p{font-size:15px}}
+@media(max-width:380px){h1{font-size:32px}.expert-person{gap:15px}}
