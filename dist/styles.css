@@ -58,6 +58,8 @@ h1 em{font-style:normal}
 .byline{grid-column:1;grid-row:2;color:var(--muted);font-size:20px;line-height:1.5;margin:0 0 27px}
 .byline strong{font-weight:700}
 .blogger{grid-column:2;grid-row:3;background:var(--panel);border-radius:32px;padding:30px;color:var(--muted);font-size:16px;line-height:1.5}
+#story-4 .blogger{position:relative}
+#story-4 .blogger .story-neon-b{top:calc(100% + 150px);left:35px;right:auto;width:260px}
 .blogger img{display:block;width:40px;height:40px;margin-bottom:10px}
 .blogger p{margin:0 0 14px}
 .blogger p:last-child{margin-bottom:0}
@@ -106,6 +108,8 @@ h1 em{font-style:normal}
   .review h2{font-size:28px;line-height:1.17;margin-bottom:14px}
   .byline{font-size:16px;line-height:1.45;margin-bottom:22px}
   .blogger{order:0;width:100%;padding:22px;border-radius:24px;margin-bottom:26px;font-size:15px}
+  #story-4 .blogger{margin-bottom:100px}
+  #story-4 .blogger .story-neon-b{top:calc(100% + 39px);left:calc(50% - 88px);right:auto;width:175px}
   .review-copy{order:1;font-size:18px;line-height:1.55}
   .review-copy p,.expert-copy p{margin-bottom:20px}
   .expert{padding:26px 22px 30px;margin-top:45px;border-radius:26px}
